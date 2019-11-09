@@ -1141,3 +1141,61 @@ footer ul li{
     margin-right: 15px;
     font-size:25px;
 }
+
+
+
+
+
+/*______________ barra social________________*/
+
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 0.6rem;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.icon-bar a:hover {
+  background-color: rgb(48, 48, 48);
+}
+
+.facebook {
+  background: rgb(62, 128, 0);
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.whatsapp  {
+  background: #0285dd;
+  color: white;
+}
+
+.linkedin {
+  background: #8b3300;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.content {
+  margin-left: 75px;
+  font-size: 30px;
+}
