@@ -1199,3 +1199,62 @@ footer ul li{
   margin-left: 75px;
   font-size: 30px;
 }
+
+
+
+/*_______________________________________________________________ carousel __________________________________________________________________*/
+
+.carousel-inner{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.nuestros{
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  font-size: 4.5rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.cli{
+color:gray;
+  
+}
+
+
+.clientes2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 5rem;
+}
+
+.gris2{
+  font-size:2.8rem ;
+  color: gray;
+}
+/**CSS FOR THE RING**/
+
+.glyphicon-user {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 4px solid white;
+  color: white;
+  display: inline-table;
+  text-align: center;
+}
+/**CSS FOR ICON WITH NO BACKGROUND COLOR**/
+
+.glyphicon-user .glyphicon-bordered {
+  font-size: 50px;
+  vertical-align: middle;
+  display: table-cell;
+}
+/**WITH AN ADDED BACKGROUND COLOR**/
+
+
+.glyphicon-user {
+  background: rgb(253, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+/*_______________________________________________________________finaliza carousel __________________________________________________________________*/
