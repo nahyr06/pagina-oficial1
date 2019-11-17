@@ -1258,3 +1258,41 @@ color:gray;
 }
 
 /*_______________________________________________________________finaliza carousel __________________________________________________________________*/
+
+.circulo{
+  margin-left: 50%;
+  margin-top: 20%;
+}
+
+.loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url('images/pageLoader.gif') 50% 50% no-repeat rgb(133, 133, 133);
+  opacity: .8;
+}
+
+
+.fa-store-alt{
+  color: red;
+  margin-right: 1rem;
+}
+
+.fa-archive{
+  color: red;
+
+}
+.fa-phone-volume{
+  color: red;
+  font-size: 2rem;
+  margin-right: 1.2rem;
+}
+
+.fa-clock{
+  color: red;
+  font-size: 2rem;
+  margin-right: 0.8rem;
+}
